@@ -11,7 +11,7 @@ NestJS/.vscode/
 *.classpath
 *.idea
 *.iml
-*.project
+
 *.settings
 .*!travis.yml
 java/samples/server/target/
